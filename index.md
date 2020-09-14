@@ -6,7 +6,7 @@
 Test 1234567890
 
 <button type="button" id="liveagent_button_online_5730R000000CaYN" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('5730R000000CaYN')">Contact Us Online</button>
-<!-- Online Chat Content --></a>
+<!-- Online Chat Content -->
 <div id="liveagent_button_offline_5730R000000CaYN" style="display: none;"><!-- Offline Chat Content -->
 </div>
 <script type="text/javascript">
